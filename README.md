@@ -1,2 +1,2 @@
 # tokaplaravelriska1
-mengumpulakan tugas laravel tokap eps 1 riska adisti xi rpl b
+mengumpulakan tugas laravel tokap riska adisti xi rpl b
